@@ -6,6 +6,9 @@
 
 > **Note**: Firebase has been removed from this project to enhance security and privacy. The project now does not rely on Firebase for backend services.
 
+This application utilizes the [Chronicle Backend](https://github.com/Izwin/chronicle_backend) for its backend services.
+
+
 ## 📚 License
 
 This project is intended for educational purposes only. You may use, modify, and distribute it, but **do not use it for commercial purposes**.
