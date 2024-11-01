@@ -1,5 +1,7 @@
 # Chronicle
 
+Full tutorial: https://www.youtube.com/watch?v=MRSZEVyRriM
+
 ![Chronicle Logo](assets/images/logo.png)
 
 **Chronicle** is a modern application developed using Flutter. This open-source project is created for educational purposes, demonstrating how to build applications with Flutter, including routing, network communication, authentication, and state management.
