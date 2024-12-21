@@ -40,6 +40,7 @@ class _NumberPickerState extends State<NumberPicker> {
                 setState(() {
                   selectedNumber = widget.from + index;
                 });
+                widget.onNumberChanged(widget.from + index);
               },
               style: ElevatedButton.styleFrom(
                 shape: const CircleBorder(),
